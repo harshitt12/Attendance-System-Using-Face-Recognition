@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "ms_attender_app.app"
-               BlueprintName = "ms_attender_app"
-               ReferencedContainer = "container:ms_attender_app.xcodeproj">
+               BuildableName = "attender_app.app"
+               BlueprintName = "attender_app"
+               ReferencedContainer = "container:attender_app.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "ms_attender_appTests.xctest"
-               BlueprintName = "ms_attender_appTests"
-               ReferencedContainer = "container:ms_attender_app.xcodeproj">
+               BuildableName = "attender_appTests.xctest"
+               BlueprintName = "attender_appTests"
+               ReferencedContainer = "container:attender_app.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ms_attender_app.app"
-            BlueprintName = "ms_attender_app"
-            ReferencedContainer = "container:ms_attender_app.xcodeproj">
+            BuildableName = "attender_app.app"
+            BlueprintName = "attender_app"
+            ReferencedContainer = "container:attender_app.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "ms_attender_app.app"
-            BlueprintName = "ms_attender_app"
-            ReferencedContainer = "container:ms_attender_app.xcodeproj">
+            BuildableName = "attender_app.app"
+            BlueprintName = "attender_app"
+            ReferencedContainer = "container:attender_app.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

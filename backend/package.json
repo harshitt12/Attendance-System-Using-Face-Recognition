@@ -1,5 +1,5 @@
 {
-  "name": "ms-student-attender-api",
+  "name": "attender-api",
   "version": "1.0.0",
   "main": "./outputData/app.js",
   "scripts": {

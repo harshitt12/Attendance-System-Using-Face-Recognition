@@ -1,4 +1,4 @@
-package com.ms_attender_app;
+package com.attender_app;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

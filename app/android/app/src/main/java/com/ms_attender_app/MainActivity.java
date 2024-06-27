@@ -1,4 +1,4 @@
-package com.ms_attender_app;
+package com.attender_app;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "ms_attender_app";
+    return "attender_app";
   }
 
   /**

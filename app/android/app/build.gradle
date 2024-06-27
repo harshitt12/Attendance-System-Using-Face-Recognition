@@ -73,10 +73,10 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.ms_attender_app"
+    namespace "com.attender_app"
     defaultConfig {
         missingDimensionStrategy 'react-native-camera', 'general'
-        applicationId "com.ms_attender_app"
+        applicationId "com.attender_app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
